@@ -2,8 +2,9 @@
 {
     dev_name: "paula-mod"
     title: "Paula"
-    description: "Paula, a 35-year-old stripper from Vegas trying to reunite with her daughter. Skilled at charm and distraction, she's willing to do whatever it takes to win back custody."
+    description: "Paula, a 35-year-old stripper from Vegas trying to win back custody of her daughter Emma. Skilled at charm and distraction, with three skills of her own, in-car banter and a quest to get her to a lawyer out east: find her some food and a drink, then drive her to the big city."
+    thumbnail: "preview.png"
     author: "Leonardo"
     version: 0.1
-    tags: "hitchhiker"
+    tags: "hitchhiker", "quests"
 }

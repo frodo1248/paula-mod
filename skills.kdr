@@ -43,6 +43,6 @@
 	target: all
 	pattern: AAA
 	uses: 2
-	text: "Removes 2 wild icons."
+	text: "Removes 3 wild icons."
 	sprite: "spr_ui_skill_night_owl"
 }
