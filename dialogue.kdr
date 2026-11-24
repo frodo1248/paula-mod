@@ -1,0 +1,112 @@
+//PAULA THE STRIPPER - DIALOGUES
+
+// Greeting dialogues (random one plays when picked up)
+{
+	id: paula_greeting_a
+	text: "Gracias por parar. Necesitaba salir de esa ciudad por un tiempo."
+}
+
+{
+	id: paula_greeting_b
+	text: "¿Hacia dónde vas? Siempre estoy lista para un buen viaje por carretera."
+}
+
+{
+	id: paula_greeting_c
+	text: "Dale, lindo. Pero te aviso: soy mejor compañía cuando hay música."
+}
+
+// Initial hitch dialogue (longer conversation)
+{
+	id: paula_hitch
+	text: "Soy Paula. Diez años bajo luces de neón y ahora estoy en la ruta. La vida es rara. Pero cada kilómetro me acerca más a mi hija."
+}
+
+// General conversation dialogue
+{
+	id: paula_talk
+	text: "Mi ex tiene la custodia. Pero voy a ganar esa batalla. Y para eso necesito dinero. Mucho dinero. Por eso estoy en la ruta."
+}
+
+// Trust-building talks before Paula asks for help
+{
+	id: paula_trust_1
+	text: "No suelo contarle esto a cualquiera. Pero contigo me siento un poco más tranquila. Supongo que pasar tantas horas en la ruta hace que una termine hablando."
+}
+
+{
+	id: paula_trust_2
+	text: "Mi hija se llama Emma. Tiene siete años. La extraño, pero sé que no alcanza con extrañarla. Quiero demostrarle que puedo estar ahí para ella."
+}
+
+// First quest: get Paula a drink (completes on the spot, like June's coffee quest)
+{
+	id: paula_drink_complete
+	text: "Ay, gracias. Con esto se me aflojan los nervios. Hace años que no me daba tanto miedo algo, y eso que bailé frente a cualquiera."
+}
+
+// Second quest: take Paula to the lawyer
+{
+	id: paula_begin_lawyer
+	text: "Me animé a averiguar. En una gran ciudad al este hay un abogado que puede ayudarme con la custodia. ¿Me llevarías hasta allí? Por ahora solo necesito llegar."
+}
+
+{
+	id: paula_lawyer_trip_complete
+	text: "Hablé con el abogado. Dice que hay chances de lograr un acuerdo de custodia, pero que va a llevar tiempo y tengo que esperar su respuesta. ¿Puedo seguir con vos mientras tanto? No tengo adónde ir, y me hace bien viajar."
+}
+
+// Second quest: Paula takes one last, well-paid stage job
+{
+	id: paula_request_fee
+	text: "Me ofrecieron una última noche de trabajo en un club. Pagan muy bien y con eso voy a poder pagarle al abogado. Pero será la última vez que haga esto. ¿Me llevas?"
+}
+
+{
+	id: paula_lawyer_fee_complete
+	text: "Me pagaron muy bien. Con esto el abogado puede presentar los papeles. Y te lo digo en serio: no quiero volver a hacer esto nunca más. Esta fue mi última noche en el escenario. Ahora toca esperar; por primera vez siento que esto puede funcionar."
+}
+
+// A couple of conversations pass before Paula gets the decision
+{
+	id: paula_case_wait
+	text: "El abogado dice que el caso va bien, pero que estas cosas no se resuelven de un día para otro. Intento tener paciencia."
+}
+
+{
+	id: paula_custody_news
+	text: "Me acaba de llamar. Firmaron el acuerdo: me devolvieron la custodia. Emma está esperando en una parada lejos de la ciudad. No me creo que por fin vaya a verla."
+}
+
+// Final quest: take Paula to her daughter
+{
+	id: paula_final_trip
+	text: "¿Me llevas con ella? No quiero perder otro minuto. Después de todo este tiempo, no me puedo creer que vaya a abrazarla."
+}
+
+{
+	id: paula_reunion_complete
+	text: "Emma se lanzó a mis brazos. No sé cómo agradecerte todo esto. Quiero que te quedes con mi corpiño de escenario; fue parte de una vida que ya dejé atrás. Ahora quiero mirar hacia adelante."
+}
+
+// Additional character-specific dialogues
+
+{
+	id: paula_impression_thinking
+	text: "Mira por la ventana casi todo el tiempo, pero cada vez que vibra su teléfono, le cambia la cara. Esperanza. Miedo. Y otra vez determinación."
+}
+
+{
+	id: paula_conversation_about_daughter
+	text: "Tiene siete años. Emma. Dios, cuánto la extraño. Algunas noches, en el escenario, imaginaba que me veía y que algún día entendería por qué tuve que hacer esto."
+}
+
+{
+	id: paula_conversation_about_ex
+	text: "No es un mal tipo. Solo que... él quería que dejara de bailar y yo quería mi libertad. Los dos pensamos que podíamos hacer que funcionara. No pudimos."
+}
+
+{
+	id: paula_mention_future
+	text: "Cuando recupere la custodia, se acabó. Una ciudad nueva, un trabajo nuevo, una vida nueva. Algo honesto. Algo que me permita ser su mamá todos los días."
+}

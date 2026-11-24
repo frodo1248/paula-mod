@@ -1,0 +1,65 @@
+// PAULA - AUTOMATIC IN-CAR BANTER
+
+{
+	name: hh_paula_banter_1
+
+	text: "¿Te molesta si canto? En el escenario aprendí a no dejar que el silencio se adueñe del lugar."
+	text_hh: paula_stripper
+
+	text: "Mientras no me cobres entrada."
+
+	text: "Para ti hago precio de amigo."
+	text_hh: paula_stripper
+}
+
+{
+	name: hh_paula_banter_2
+	req: rain
+
+	text: "Diez años bajo luces calientes y todavía no me acostumbro a que me llueva encima."
+	text_hh: paula_stripper
+
+	text: "¿No te gustaba la lluvia?"
+
+	text: "Me gusta verla desde adentro. El glamour tiene sus límites."
+	text_hh: paula_stripper
+}
+
+{
+	name: hh_paula_banter_3
+	req: night
+
+	text: "De noche, cada ciudad parece prometer que puedes empezar de cero."
+	text_hh: paula_stripper
+
+	text: "¿Y tú le crees?"
+
+	text: "Hoy sí. Mañana te doy una respuesta más dramática."
+	text_hh: paula_stripper
+}
+
+{
+	name: hh_paula_banter_4
+	req: music_playing
+
+	text: "Esta canción tiene buen ritmo. Casi me dan ganas de levantarme a bailar."
+	text_hh: paula_stripper
+
+	text: "¿Casi?"
+
+	text: "No pienso hacer una coreografía con el cinturón puesto."
+	text_hh: paula_stripper
+}
+
+{
+	name: hh_paula_banter_5
+	req: weather_clear
+
+	text: "Con este cielo hasta parece que la vida tiene todo bajo control."
+	text_hh: paula_stripper
+
+	text: "¿Y cuando está nublado?"
+
+	text: "Ahí por lo menos el cielo y yo estamos de acuerdo."
+	text_hh: paula_stripper
+}

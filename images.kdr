@@ -1,0 +1,38 @@
+// PAULA SPRITES - Metadata for character art
+
+// Sleeping portraits
+{
+	name: "spr_paula_portrait_full_sleep"
+	xoffset: 75
+	yoffset: 58
+}
+
+// Idle animations (waiting on roadside) - 10 fps like base game
+{
+	name: "spr_paula_idle"
+	speed_type: "frame_per_second"
+	speed: 10
+}
+
+// In-car animation
+{
+	name: "spr_paula_incar"
+	xoffset: 75
+	yoffset: 58
+	speed_type: "frame_per_second"
+	speed: 10
+}
+
+// Hitchhiking pose
+{
+	name: "spr_paula_hitch"
+	speed_type: "frame_per_second"
+	speed: 10
+}
+
+// Sitting/kicked out of car
+{
+	name: "spr_paula_sitting"
+	speed_type: "frame_per_second"
+	speed: 10
+}

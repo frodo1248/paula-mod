@@ -1,0 +1,48 @@
+///PAULA THE STRIPPER - SKILLS
+
+// Seducción
+{
+	dev_name: "seduction_charm"
+	title: "Seducción"
+	tribe: "hh"
+	type: "basic"
+	cost_string: "energy:1"
+	threat: 2
+	target: energy
+	pattern: EE
+	swift: 0
+	uses: 3
+	text: "Elimina 2 iconos de energía."
+	sprite: "spr_ui_skill_seduction_charm"
+}
+
+// Baile distractor
+{
+	dev_name: "distraction_dance"
+	title: "Baile distractor"
+	tribe: "hh"
+	type: "resource"
+	cost_string: "none"
+	threat: 0
+	resource: "money:4"
+	target: all
+	swift: 1
+	uses: 3
+	text: "Obtén 4 unidades de dinero."
+	sprite: "spr_ui_skill_distraction_dance"
+}
+
+// Búho nocturno
+{
+	dev_name: "night_owl"
+	title: "Búho nocturno"
+	tribe: "hh"
+	type: "basic"
+	cost_string: "energy:2"
+	threat: 3
+	target: all
+	pattern: AAA
+	uses: 2
+	text: "Elimina 2 iconos comodín"
+	sprite: "spr_ui_skill_night_owl"
+}

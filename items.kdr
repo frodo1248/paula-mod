@@ -1,0 +1,18 @@
+// PAULA - QUEST REWARD
+{
+	dev_name: "paula_stage_bustier"
+	title: "Corpiño de Paula"
+
+	item_type: "combat"
+	charges: 15
+	pattern: "AA"
+	cons_stat: money
+	cons_amount: 5
+
+	desc: "El corpiño de escenario que Paula guardó de su vida anterior. En eventos de carretera elimina dos iconos comodín."
+	tags: non_shop, quest_give
+	price: 0
+	w:1
+	h:1
+	sprite: spr_paula_stage_bustier
+}

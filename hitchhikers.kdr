@@ -1,0 +1,79 @@
+//PAULA THE STRIPPER
+
+{
+	dev_name: "paula_stripper"
+	hh_name: "Paula"
+	desc: "Paula tiene 35 años. Pasó diez años trabajando en clubes nocturnos de Las Vegas, bailando por cada dólar. Ahora viaja hacia una gran ciudad al este para contratar un abogado y luchar por la custodia de su hija. Dice que tiene encanto. La verdad, puede que tenga razón."
+	sex: female
+	age: 35
+	pick_up_quest: paula_lawyer_trip
+	
+	// Starting skill that Paula knows
+	start_skill: "distraction_dance"
+	
+	// LEVEL 1
+	
+	perk_id: "distraction_dance"
+	perk_type: "skill"
+	perk_dia: "hh_default_gain_skill"
+	perk_end
+	
+	perk_id: "street_musician"
+	perk_type: "passive"
+	perk_dia: "hh_default_gain_skill"
+	perk_end
+	
+	// LEVEL 2
+
+	perk_id: "seduction_charm"
+	perk_type: "skill"
+	perk_dia: "hh_default_gain_skill"
+	perk_end
+	
+	perk_id: "loan_sharks"
+	perk_type: "passive"
+	perk_dia: "hh_default_gain_skill"
+	perk_end
+	
+	// LEVEL 3
+
+	perk_id: "night_owl"
+	perk_type: "skill"
+	perk_dia: "hh_default_gain_skill"
+	perk_end
+	
+	perk_id: "flee_easy"
+	perk_type: "passive"
+	perk_dia: "hh_default_gain_skill"
+	perk_end
+	
+	// Greeting dialogues when picked up
+	greeting_dia: paula_greeting_a
+	greeting_dia: paula_greeting_b
+	greeting_dia: paula_greeting_c
+	
+	// SPRITES - Character art
+	sleep_sprite_full: spr_paula_portrait_full_sleep
+	sleep_sprite_small: spr_paula_portrait_small_sleep
+	sprite_portrait: spr_paula_portrait
+	sprite_rw_big: spr_paula_rw_big
+	sprite_rw_small: spr_paula_rw_small
+	sprite_menu_portrait: spr_paula_portrait_hitchermenu
+	sprite_button: spr_paula_button
+	sprite_idle: spr_paula_idle
+	sprite_car: spr_paula_incar
+	sprite_hitch: spr_paula_hitch
+	sprite_kicked: spr_paula_sitting
+	
+	// Main dialogues
+	hitch_dialogue: paula_hitch
+	
+	// Plain conversation; the story is told through the quest and these talks
+	talk_dialogue: paula_talk
+	talk_dialogue: paula_case_wait
+	
+	// Impressions of Paula
+	impression: "Tacones, purpurina y cansancio. Parece haber bailado en medio de un huracán y seguir de pie."
+	impression: "Habla de su hija todo el tiempo. El trabajo, el viaje y cada trato: todo es para volver con ella."
+	impression: "Su risa llena todo el auto. Después se queda callada, mirando el teléfono. Y vuelve a la realidad."
+}

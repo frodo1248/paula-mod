@@ -1,0 +1,11 @@
+# Game files and other people's mods (not ours to redistribute)
+/Keep Driving/
+/3810584840/
+/TheManBlack/
+
+# Editor and helper files
+/.vscode/
+/copy_sprites.py
+
+# Disabled/backup sprites
+*.disabled
