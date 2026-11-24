@@ -3,8 +3,8 @@
 // Single quest, given when Paula is picked up
 {
 	quest_name: paula_lawyer_trip
-	quest_title: "Un abogado para Emma"
-	quest_desc: "Paula quiere consultar a un abogado para luchar por la custodia de su hija. Ayúdala a prepararse y llévala hasta él."
+	quest_title: "A Lawyer for Emma"
+	quest_desc: "Paula wants to see a lawyer to fight for custody of her daughter. Help her get ready and take her to him."
 	quest_type: hh
 	quest_days: 20
 
@@ -12,22 +12,22 @@
 	obj_type: item_tag
 	obj_item_tag: food
 	obj_dest: none
-	obj_title: "Conseguir comida para Paula"
-	obj_desc: "No comió en todo el día. Cualquier cosa de comer sirve."
+	obj_title: "Get Paula some food"
+	obj_desc: "She hasn't eaten all day. Anything edible will do."
 
 	obj: drink
 	obj_type: item_tag
 	obj_item_tag: beverage
 	obj_dest: none
-	obj_title: "Conseguir una bebida para Paula"
-	obj_desc: "Está muy nerviosa. Cualquier bebida sirve."
+	obj_title: "Get Paula a drink"
+	obj_desc: "She's very nervous. Any drink will do."
 
 	obj: go_to_lawyer
 	obj_type: dest
 	obj_dest: hidden
 	obj_new_dest_id: city_east
-	obj_title: "Llevar a Paula con el abogado"
-	obj_desc: "Acompáñala a la gran ciudad del este para iniciar su caso."
+	obj_title: "Take Paula to the lawyer"
+	obj_desc: "Go with her to the big city out east to start her case."
 
 	dialogue_turn_in_complete: paula_lawyer_trip_complete
 

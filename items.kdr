@@ -1,7 +1,7 @@
 // PAULA - QUEST REWARD
 {
 	dev_name: "paula_stage_bustier"
-	title: "Corpiño de Paula"
+	title: "Paula's Stage Bustier"
 
 	item_type: "combat"
 	charges: 15
@@ -9,7 +9,7 @@
 	cons_stat: money
 	cons_amount: 5
 
-	desc: "El corpiño de escenario que Paula guardó de su vida anterior. En eventos de carretera elimina dos iconos comodín."
+	desc: "The stage bustier Paula kept from her old life. Removes two wild icons in road events."
 	tags: non_shop, quest_give
 	price: 0
 	w:1

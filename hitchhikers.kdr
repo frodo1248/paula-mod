@@ -3,7 +3,7 @@
 {
 	dev_name: "paula_stripper"
 	hh_name: "Paula"
-	desc: "Paula tiene 35 años. Pasó diez años trabajando en clubes nocturnos de Las Vegas, bailando por cada dólar. Ahora viaja hacia una gran ciudad al este para contratar un abogado y luchar por la custodia de su hija. Dice que tiene encanto. La verdad, puede que tenga razón."
+	desc: "Paula is 35. She spent ten years working nightclubs in Las Vegas, dancing for every dollar. Now she's heading to a big city out east to hire a lawyer and fight for custody of her daughter. She says she has charm. Honestly, she might be right."
 	sex: female
 	age: 35
 	pick_up_quest: paula_lawyer_trip
@@ -73,7 +73,7 @@
 	talk_dialogue: paula_case_wait
 	
 	// Impressions of Paula
-	impression: "Tacones, purpurina y cansancio. Parece haber bailado en medio de un huracán y seguir de pie."
-	impression: "Habla de su hija todo el tiempo. El trabajo, el viaje y cada trato: todo es para volver con ella."
-	impression: "Su risa llena todo el auto. Después se queda callada, mirando el teléfono. Y vuelve a la realidad."
+	impression: "Heels, glitter and exhaustion. She looks like she danced through a hurricane and is still standing."
+	impression: "She talks about her daughter all the time. The work, the trip, every deal: it's all to get back to her."
+	impression: "Her laugh fills the whole car. Then she goes quiet, staring at her phone. And she's back to reality."
 }

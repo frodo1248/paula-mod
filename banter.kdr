@@ -3,12 +3,12 @@
 {
 	name: hh_paula_banter_1
 
-	text: "¿Te molesta si canto? En el escenario aprendí a no dejar que el silencio se adueñe del lugar."
+	text: "Mind if I sing? On stage I learned not to let silence take over the room."
 	text_hh: paula_stripper
 
-	text: "Mientras no me cobres entrada."
+	text: "As long as you don't charge me admission."
 
-	text: "Para ti hago precio de amigo."
+	text: "For you, I'll give a friend discount."
 	text_hh: paula_stripper
 }
 
@@ -16,12 +16,12 @@
 	name: hh_paula_banter_2
 	req: rain
 
-	text: "Diez años bajo luces calientes y todavía no me acostumbro a que me llueva encima."
+	text: "Ten years under hot lights and I still can't get used to being rained on."
 	text_hh: paula_stripper
 
-	text: "¿No te gustaba la lluvia?"
+	text: "You don't like the rain?"
 
-	text: "Me gusta verla desde adentro. El glamour tiene sus límites."
+	text: "I like watching it from inside. Glamour has its limits."
 	text_hh: paula_stripper
 }
 
@@ -29,12 +29,12 @@
 	name: hh_paula_banter_3
 	req: night
 
-	text: "De noche, cada ciudad parece prometer que puedes empezar de cero."
+	text: "At night, every city seems to promise you can start over."
 	text_hh: paula_stripper
 
-	text: "¿Y tú le crees?"
+	text: "And do you believe it?"
 
-	text: "Hoy sí. Mañana te doy una respuesta más dramática."
+	text: "Tonight I do. Tomorrow I'll give you a more dramatic answer."
 	text_hh: paula_stripper
 }
 
@@ -42,12 +42,12 @@
 	name: hh_paula_banter_4
 	req: music_playing
 
-	text: "Esta canción tiene buen ritmo. Casi me dan ganas de levantarme a bailar."
+	text: "This song has a great beat. I almost feel like getting up to dance."
 	text_hh: paula_stripper
 
-	text: "¿Casi?"
+	text: "Almost?"
 
-	text: "No pienso hacer una coreografía con el cinturón puesto."
+	text: "I'm not doing choreography with my seat belt on."
 	text_hh: paula_stripper
 }
 
@@ -55,11 +55,11 @@
 	name: hh_paula_banter_5
 	req: weather_clear
 
-	text: "Con este cielo hasta parece que la vida tiene todo bajo control."
+	text: "With a sky like this, it almost feels like life has everything under control."
 	text_hh: paula_stripper
 
-	text: "¿Y cuando está nublado?"
+	text: "And when it's cloudy?"
 
-	text: "Ahí por lo menos el cielo y yo estamos de acuerdo."
+	text: "Then at least the sky and I are on the same page."
 	text_hh: paula_stripper
 }
