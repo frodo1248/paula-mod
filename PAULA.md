@@ -85,6 +85,14 @@ de June, tras subir de nivel y con una misión `main` como la de la pareja.
 Como la documentación oficial de misiones y diálogos aún está sin completar
 ("TBA"), la cadena queda para una **versión 2**.
 
+**Hallazgo (28/11/2026):** el mod publicado de June (`3810584840`) se comporta
+igual. Tras completar su primera misión (conseguir un café) nunca apareció
+**Hablar** ni se ofreció `pnw_june_roastery`, aunque Leonardo la jugó hasta el
+nivel 3. Por eso el fallo probablemente no sea un error de la estructura de
+Paula, sino una limitación o un bug del juego con los pasajeros de mods; no
+está confirmado sin el código del juego. Se redactó una consulta técnica para
+los desarrolladores.
+
 **Misión "Un abogado para Emma"** (`quest_type: hh`, `quest_days: 20`).
 Los objetivos son tres y el juego no obliga a cumplirlos en orden:
 
